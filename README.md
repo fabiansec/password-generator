@@ -31,7 +31,7 @@ Asegúrate de tener instalado:
 ### **Clonar el repositorio**
 Primero, clona el repositorio en tu máquina local:
 ```bash
-git clone https://github.com/tu-usuario/password-generator.git
+git clone https://github.com/fabiansec/password-generator.git
 cd password-generator
 ```
 ### **Ejecutar script**
