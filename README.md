@@ -1,6 +1,6 @@
 # Generador de Contraseñas Seguras
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fc10d171-9812-4e9e-a3e1-8132d3c01fd5"  height="500" />
+  <img src="https://github.com/user-attachments/assets/2874cead-9c20-43db-b87c-924dc13ff5ba"  height="500" />
 </p>
 
 
