@@ -1,6 +1,8 @@
 # Generador de Contraseñas Seguras
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fc10d171-9812-4e9e-a3e1-8132d3c01fd5"  height="200" />
+</p>
 
-![Diseño sin título (1)](https://github.com/user-attachments/assets/fc10d171-9812-4e9e-a3e1-8132d3c01fd5)
 
 ¡Bienvenido al generador de contraseñas seguras! Este proyecto es una aplicación de Python con una interfaz gráfica desarrollada en `tkinter` para generar contraseñas aleatorias, seguras y personalizables según la longitud que desees. Además, permite copiar la contraseña generada al portapapeles con un solo clic.
 
