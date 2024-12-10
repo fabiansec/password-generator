@@ -11,7 +11,7 @@
 ## **Captura de Pantalla**
 
 ### Vista de la Interfaz
-![image]()  
+ 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1f6b9c2e-9be6-4a4f-bfb1-08d680f5b40e"  height="400" />
 </p>
