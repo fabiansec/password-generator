@@ -6,6 +6,7 @@
 
 ## **Captura de Pantalla**
 A continuación, puedes ver cómo se ve la aplicación:
+![image](https://github.com/user-attachments/assets/1f6b9c2e-9be6-4a4f-bfb1-08d680f5b40e)
 
  
 *Interfaz gráfica del Generador de Contraseñas Seguras*
